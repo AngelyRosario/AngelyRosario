@@ -1,4 +1,4 @@
-<h1 align='center'> <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Howdy 👋, I'm Angely Rosario, let's rise together into the future! 🚀 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5b3BqcGhnbTh4M2FqYnJueXhpdzRodnI3cHRibXRtNDQ2bWFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"></h1>
+<h1 align='center'> <img height="30"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV5bzg5bGFtdWdhcDJ2bHB5dWFiZ2w2YXB2ZnJ4ZW5raHl5MXYxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif"/> Howdy 👋, I'm Angely Rosario, let's rise together into the future! 🚀 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5b3BqcGhnbTh4M2FqYnJueXhpdzRodnI3cHRibXRtNDQ2bWFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"></h1>
 
 
 ![bannerCover](https://github.com/AngelyRosario/AngelyRosario/blob/a7d7d7d8d099540f21c109f9b1ce6ccb61ebb9ea/angely.png)
@@ -48,9 +48,9 @@ src="https://img.shields.io/github/followers/AngelyRosario?logo=github&style=for
 <h3>💬🗣️Socials</h3>
 
 <p align="left"> 
-<a href="https://discord.com/users/dianita3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/ladydianaquispe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/AngelyRosario" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://github.com/AngelyRosario" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/angely-karen-rosario-topalaya-338301202/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 </p>
 
