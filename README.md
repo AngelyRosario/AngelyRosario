@@ -1,4 +1,4 @@
-<h1 align='center'> <img height="80"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV5bzg5bGFtdWdhcDJ2bHB5dWFiZ2w2YXB2ZnJ4ZW5raHl5MXYxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif"/> Howdy 👋, I'm Angely Rosario, let's rise together into the future! 🚀 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5b3BqcGhnbTh4M2FqYnJueXhpdzRodnI3cHRibXRtNDQ2bWFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"></h1>
+ <h1 align='center'> <img height="80"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV5bzg5bGFtdWdhcDJ2bHB5dWFiZ2w2YXB2ZnJ4ZW5raHl5MXYxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif"/> Howdy 👋, I'm Angely Rosario, let's rise together into the future! 🚀 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5b3BqcGhnbTh4M2FqYnJueXhpdzRodnI3cHRibXRtNDQ2bWFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"></h1>
 
 
 ![bannerCover](https://github.com/AngelyRosario/AngelyRosario/blob/a7d7d7d8d099540f21c109f9b1ce6ccb61ebb9ea/angely.png)
@@ -60,11 +60,18 @@ src="https://img.shields.io/github/followers/AngelyRosario?logo=github&style=for
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelyRosario&theme=jolly&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelyRosario&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 🌟
 
 ![](https://github-profile-trophy.vercel.app/?username=AngelyRosario&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
+<div align="center">
+  <h2> 🤝 My Contributions 🌟</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <p align="center">
    <i> ✨Every line of code is an opportunity to learn something new, no matter when you start ✨</i>
    <br>
