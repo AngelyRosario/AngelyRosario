@@ -1,4 +1,4 @@
-<h1 align='center'> <img height="50"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV5bzg5bGFtdWdhcDJ2bHB5dWFiZ2w2YXB2ZnJ4ZW5raHl5MXYxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif"/> Howdy 👋, I'm Angely Rosario, let's rise together into the future! 🚀 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5b3BqcGhnbTh4M2FqYnJueXhpdzRodnI3cHRibXRtNDQ2bWFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"></h1>
+<h1 align='center'> <img height="80"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV5bzg5bGFtdWdhcDJ2bHB5dWFiZ2w2YXB2ZnJ4ZW5raHl5MXYxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif"/> Howdy 👋, I'm Angely Rosario, let's rise together into the future! 🚀 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5b3BqcGhnbTh4M2FqYnJueXhpdzRodnI3cHRibXRtNDQ2bWFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"></h1>
 
 
 ![bannerCover](https://github.com/AngelyRosario/AngelyRosario/blob/a7d7d7d8d099540f21c109f9b1ce6ccb61ebb9ea/angely.png)
@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/AngelyRosario?logo=github&style=for
 
 </p>  
  <hr>
-<img height="50"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBoZ2pqNzE0YnhqMWttMDJjOHE2MzVkc3hvYWExaTR4NnM0NXNqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUrwf15oqr6Dds6g6U/giphy.gif"/><h3> About me 🌟 </h3>
+<h3 align='center'><img height="50"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBoZ2pqNzE0YnhqMWttMDJjOHE2MzVkc3hvYWExaTR4NnM0NXNqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUrwf15oqr6Dds6g6U/giphy.gif"/> About me 🌟 </h3>
 📍 I'm based in Peru📚 I'm currently Learning Google Cloud.
 🚀 I'm passionate about learning new technologies as a self-taught individual.
 💡 I thrive on the excitement of turning ideas into reality!
