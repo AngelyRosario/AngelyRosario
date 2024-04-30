@@ -1,4 +1,4 @@
- <h1 align='center'> <img height="80"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV5bzg5bGFtdWdhcDJ2bHB5dWFiZ2w2YXB2ZnJ4ZW5raHl5MXYxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif"/> Howdy 👋, I'm Angely Rosario, let's rise together into the future! 🚀 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5b3BqcGhnbTh4M2FqYnJueXhpdzRodnI3cHRibXRtNDQ2bWFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"></h1>
+ <h1 align='center'> <img height="70"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV5bzg5bGFtdWdhcDJ2bHB5dWFiZ2w2YXB2ZnJ4ZW5raHl5MXYxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif"/> Howdy 👋, I'm Angely Rosario, let's rise together into the future! 🚀 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5b3BqcGhnbTh4M2FqYnJueXhpdzRodnI3cHRibXRtNDQ2bWFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="70"></h1>
 
 
 ![bannerCover](https://github.com/AngelyRosario/AngelyRosario/blob/a7d7d7d8d099540f21c109f9b1ce6ccb61ebb9ea/angely.png)
